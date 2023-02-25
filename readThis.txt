@@ -11,3 +11,38 @@ react developer tools
 
 //Vs code shortcut for web devlopment
 ! enter for boiler plate
+
+//vs code shortcuts
+ctrl+shft+E----->open explorer
+ctrl+B---------->close side pallette
+ctrl+k Z- ------>Zen mode(esc to exit)
+Insert---------->To run code
+Pause Break----->To exit from terminal
+ctrl+shft+P----->cd pallette
+ctrl+F2---------->selecting all same words
+ctrl+p----------->goto a file
+ctrl+H----------->replace
+alt+z------------>word wrap
+ctrl + enter----->jump to new line
+Shift + Alt + Up Arrow Key-->copy the line to the line above itself
+alt+cursor------->write multiple place at a time
+
+
+
+To search a file with extension name
+type in search bar-->ext:"extension name"
+
+To change multiple file extensions simultaneously
+copy path where files are present
+open cmd
+type cd "paste" enter
+type ren *."old extension" *."new extension"  enter
+
+beautiful extentions for web development
+prettier-code formatter
+live server
+Auto rename tag
+bracket pair colorizer open close brackets problem
+visual studio live share
+debugger for chrome
+
