@@ -1,0 +1,9 @@
+thunder client --> Postman alternative
+bracket pair coloriser
+react native/redux
+Auto rename tag
+prettier - code formatter
+
+//Browser extensions
+jsonview
+react developer tools
