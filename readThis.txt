@@ -1,3 +1,4 @@
+//Web devlopment extensions used in web devlopment
 thunder client --> Postman alternative
 bracket pair coloriser
 react native/redux
@@ -7,3 +8,6 @@ prettier - code formatter
 //Browser extensions
 jsonview
 react developer tools
+
+//Vs code shortcut for web devlopment
+! enter for boiler plate
