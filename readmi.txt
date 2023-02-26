@@ -1,5 +1,5 @@
 https://unsplash.com/developers  for dynamic api
-div.container
+div.container  shortcut write coder
 
 //Web devlopment extensions used in web devlopment
 thunder client --> Postman alternative
